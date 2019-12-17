@@ -1,0 +1,9 @@
+ http://192.168.2.20/localStores/sampleTst/Api/Products/all
+
+ http://192.168.2.20/localStores/sampleTst/Api/StoresInfo/allVendorStores
+
+ http://192.168.2.20/localStores/sampleTst/Api/StoresInfo/vendorProduct
+ 
+ http://192.168.2.20/localStores/sampleTst/Api/Products/productDel/?
+ ? == pass parameter here
+ product id
